@@ -1,26 +1,33 @@
 # 👋 Hi, I'm Faizan
 
-💻 **Full-Stack Developer | Backend-Focused | ML Enthusiast**
+💻 **Full-Stack Developer | ML Engineer | Backend-Focused Builder**
 
 ---
 
 ## 🧠 About Me
 
-I'm a Computer Science student focused on building **real-world applications** with strong **backend systems and database design**.
+I build **real-world software systems** with a strong focus on **backend engineering, scalable architectures, and intelligent applications**.
 
-I work on **full-stack development (MERN)**, develop **structured APIs**, and build systems that handle real logic — not just UI.  
-I also explore **Machine Learning** and how it can be integrated into practical applications.
+My work spans across:
+- 🌐 **Full-stack web development**
+- 📱 **Application development**
+- 🤖 **Machine Learning & AI systems**
+- 🧠 **Multi-RAG (Retrieval-Augmented Generation) systems**
+
+I focus on creating solutions that combine **clean architecture, efficient data handling, and practical usability** — not just theoretical implementations.
 
 ---
 
 ## ⚡ What I Do
 
-- 🌐 Full-Stack Web Development (MERN)
-- 🧩 Backend Development & API Design
-- 🗄️ Database Design (SQL & NoSQL)
-- 🔐 Authentication & Security (JWT)
-- 🤖 ML Integration in Applications
-- 🛠️ Clean, Scalable Code Practices
+- 🌐 Develop **full-stack web applications (MERN & modern stacks)**
+- 📱 Build **application-level systems with real functionality**
+- 🧩 Design **scalable backend architectures & REST APIs**
+- 🗄️ Engineer **database-driven systems (SQL & NoSQL)**
+- 🔐 Implement **authentication & secure systems (JWT, structured access)**
+- 🤖 Work on **ML models & AI-powered features**
+- 🧠 Build **Multi-RAG pipelines and intelligent retrieval systems**
+- 🛠️ Write **clean, maintainable, production-oriented code**
 
 ---
 
@@ -44,6 +51,7 @@ I also explore **Machine Learning** and how it can be integrated into practical 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -54,6 +62,7 @@ I also explore **Machine Learning** and how it can be integrated into practical 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat-square&logo=nodemon)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
 ---
 
@@ -64,7 +73,7 @@ I also explore **Machine Learning** and how it can be integrated into practical 
 
 ---
 
-### 🤖 ML / Data
+### 🤖 ML / AI
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -83,7 +92,7 @@ I also explore **Machine Learning** and how it can be integrated into practical 
 
 ---
 
-### 🎨 Design (Supporting Skills)
+### 🎨 Design (Supporting)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)
@@ -92,20 +101,21 @@ I also explore **Machine Learning** and how it can be integrated into practical 
 
 ## 🏗️ Projects & Work
 
-- 🔹 Built **full-stack MERN applications** with real backend logic  
-- 🔹 Developed **database-driven systems (C# + MS SQL)**  
-- 🔹 Implemented **secure authentication systems (JWT)**  
-- 🔹 Designed apps with **dashboards, transactions & data flow**  
-- 🔹 Worked on **problem-solving and system-based applications**  
+- 🔹 Built **full-stack web systems** with real backend logic  
+- 🔹 Developed **database-driven applications (C# + MS SQL)**  
+- 🔹 Implemented **secure authentication & API systems**  
+- 🔹 Designed applications with **dashboards, workflows, and data pipelines**  
+- 🔹 Worked on **ML-based and AI-integrated solutions**  
+- 🔹 Exploring and building **Multi-RAG based intelligent systems**  
 
 ---
 
 ## 📂 What You'll Find Here
 
-- 🚀 Full-stack projects with backend focus  
-- 🧠 ML experiments and implementations  
-- 🗄️ Database-driven systems  
-- 📘 Academic + practical hybrid work  
+- 🚀 Production-oriented full-stack projects  
+- 🧠 Machine learning and AI implementations  
+- 🗄️ Backend-heavy systems and database designs  
+- 📘 Practical + experimental engineering work  
 
 ---
 
@@ -122,6 +132,11 @@ I also explore **Machine Learning** and how it can be integrated into practical 
 ![](https://github-readme-stats.vercel.app/api?username=FaizanCyber007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FaizanCyber007&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanCyber007&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
