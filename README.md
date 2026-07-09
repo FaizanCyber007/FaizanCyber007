@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Faizan%20Javed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Faizan%20Javed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20-%20Full%20Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/faizan-javed-b0267426a">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%40+Flyrank.ai;Researcher+%40+MPVIR+Group%2C+COMSATS;Building+RAG+%26+NLP+for+Urdu;Full-Stack+MERN+%2B+FastAPI+Developer&font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=22&pause=1500"/>
@@ -116,6 +116,14 @@
 
 *Full contribution graph, pinned repos & languages are visible natively on my profile below.*
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=FaizanCyber007&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
