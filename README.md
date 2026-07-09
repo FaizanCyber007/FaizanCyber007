@@ -120,14 +120,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FaizanCyber007&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
