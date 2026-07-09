@@ -109,21 +109,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FaizanCyber007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=FaizanCyber007&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanCyber007&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+![Followers](https://img.shields.io/github/followers/FaizanCyber007?style=for-the-badge&color=00c6ff&logo=github&logoColor=white&label=Followers)
+![Last Commit](https://img.shields.io/github/last-commit/FaizanCyber007/FaizanCyber007?style=for-the-badge&color=00c6ff&logo=github&logoColor=white&label=Last%20Update)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanCyber007&theme=tokyo-night&hide_border=true&area=true"/>
+*Full contribution graph, pinned repos & languages are visible natively on my profile below.*
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FaizanCyber007&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
