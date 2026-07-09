@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Faizan%20Javed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%26%20Researcher%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Faizan%20Javed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/faizan-javed-b0267426a">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%40+Flyrank.ai;Researcher+%40+MPVIR+Group%2C+COMSATS;Building+RAG+%26+NLP+for+Urdu;Full-Stack+MERN+%2B+FastAPI+Developer&font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=22&pause=1500"/>
@@ -110,7 +110,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaizanCyber007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanCyber007&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=FaizanCyber007&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanCyber007&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
@@ -137,7 +137,7 @@
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=FaizanCyber007&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=FaizanCyber007&color=00c6ff&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
